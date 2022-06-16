@@ -12,7 +12,7 @@ var bombimg
 var pathimg
 var xs,ys
 function preload(){
-  runnerAnimation = loadAnimation("Runner-1.png","runner-2.png")
+  runnerAnimation = loadAnimation("Runner-1.png","Runner-2.png")
   powerimg = loadImage("power.png")
   bombimg = loadImage("bomb.png")
   coinimg = loadImage("coin.png")
